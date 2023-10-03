@@ -1,3 +1,5 @@
+#PROJECT OVERVIEW LINK -- https://www.canva.com/design/DAFl4WdYZLo/BSBd13opGZPKOLA_-Yp5UQ/view?utm_content=DAFl4WdYZLo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
+
 -- Queries to solve questions
 
 CREATE SCHEMA RSVP;  # create the RSVP database
